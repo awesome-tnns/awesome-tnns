@@ -59,3 +59,6 @@ The result $\textbf{h}\_x^{t+1,(r)}$ is the updated feature on cell $x$ that is 
 ## :house_with_garden: Community
 
 We warmly welcome contributions to our open source project and invite everyone to join us in making it better. If you notice any mistakes or issues with the equations, please don't hesitate to make a pull request to help us improve the repository. Furthermore, we highly encourage authors of other TNNs not yet included to add their architectures to this growing database.
+
+## References
+1. <a id="hajij2023tdl"></a>Mustafa Hajij, Ghada Zamzmi, Theodore Papamarkou, Nina Miolane, Aldo Guzmán-Sáenz, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Tamal Dey, Soham Mukherjee, Shreyas Samaga, Neal Livesay, Robin Walters, Paul Rosen, and Michael Schaub. Topological deep learning: Going beyond graph data, 2023.
