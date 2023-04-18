@@ -1,4 +1,4 @@
-## Combinatorial Complexes
+## Schemes in the Combinatorial Complex Domain
 
 As of yet, only one paper <a href="#hajij2022higher">[1]</a> has published a TNN operating in the combinatorial complex domain. Due to the complexity of these schemes and the (temporary) lack of possible comparisons, we provide graphical illustrations for the four proposed architectures for now.
 
