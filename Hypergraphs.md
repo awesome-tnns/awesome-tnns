@@ -1,5 +1,5 @@
 
-### Schemes in the Hypergraph Domain
+## Schemes in the Hypergraph Domain
 
  
 #### HyperSage (HS) <a href="#arya2020hypersage">[1]</a>
