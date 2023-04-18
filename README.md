@@ -1,6 +1,6 @@
 # Awesome TNNs
 
-This repository is an accompaniment to: *Architectures of Topological Deep Learning: A Survey on Topological Neural Networks*
+This repository is an accompaniment to the article: *Architectures of Topological Deep Learning: A Survey on Topological Neural Networks* (anonymous).
 
 *Topological Neural Networks* (TNNs) are deep learning architectures that process signals defined on topological domains. The domains of topological deep learning generalize the binary relations of graphs to *hierarchical relations* and higher-order *set-based relations*. The additional flexibility and expressivity of these architectures permits the representation of complex natural systems such as proteins, neural activity, and many-body physical systems. 
 
