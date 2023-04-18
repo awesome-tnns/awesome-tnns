@@ -14,13 +14,13 @@ We rewrite model architectures using our unifying framework for most of the pape
 
 [Simplicial Complexes](/Simplicial_Complexes.md/)
 
-[Cellular Complexes](/Celular_Complexes.md/)
+[Cellular Complexes](/Cellular_Complexes.md/)
 
 [Combinatorial Complexes](/Combinatorial_Complexes.md/)
 
 ## :toolbox: The Framework
 
-Or unifying framework consists of a four-step process, illustrated in the figure (Fig. 7 in the paper) and described in the equations below (taken from Section 2.3.1 of the paper):
+Or unifying framework consists of a four-step process, illustrated in the figure (Fig. 7 in the paper, adapted from ) and described in the equations below (taken from Section 2.3.1 of the paper):
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/50878631/232132437-2a5f9d3a-de37-434e-8f38-0b06e226f273.jpg" width=60% height=60%>
