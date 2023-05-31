@@ -38,9 +38,9 @@ where $M_{xy}$ is the scalar entry of matrix $M$ at the row corresponding to cel
 
 :orange_square: **2. Within-Neighborhood Aggregation:** Next, messages are aggregated across all cells $y$ belonging to the neighborhood $\mathcal{N}\_k(x)$:
 
-$$ m_x^{\left(r^{\prime} \rightarrow r\right)}=A G G_{y \in \mathcal{N}_k(x)} m_{y \rightarrow x}^{\left(r^{\prime} \rightarrow r\right)}$$
+$$m_x^{\left(r^{\prime} \rightarrow r\right)}=A G G_{y \in \mathcal{N}\_k(x)} m_{y \rightarrow x}^{\left(r^{\prime} \rightarrow r\right)}$$
 
-resulting in the \textit{within-neighborhood aggregated message} $m_x^{\left(r^{\prime} \rightarrow r\right)}$. Here, $AGG$ is an aggregation function, depicted in orange in the figure, analogous to pooling in standard convolutional networks.
+resulting in the *within-neighborhood aggregated message* $m_x^{\left(r^{\prime} \rightarrow r\right)}$. Here, $AGG$ is an aggregation function, depicted in orange in the figure, analogous to pooling in standard convolutional networks.
 
 :green_square: **3. Between-Neighborhood Aggregation:** 
 Then, messages are aggregated across neighborhoods in a neighborhood set $\mathcal{N}$:
